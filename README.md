@@ -11,3 +11,5 @@ but it still works fine.
 requirements :
 tx - nodeMCU 1ea, 433TX 1ea, LED 1ea, jumperwires
 rx - nodeMCU 1ea, 433RX 1ea(VCC - 3.3v or else it might burn your main board circuit), LED 1ea, jumperwires
+Arduino IDE - nodeMCU is compatiable for developing on Arduino IDE
+RCSwtich libarary - https://github.com/sui77/rc-switch download on this repository, fundamental for using various func for communications
