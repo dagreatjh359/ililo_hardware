@@ -1,4 +1,4 @@
-# ililo_hardware
+# ililo_hardware 4-1 capstone design
 about hardware device source
 IF you want to know how the hardware works for this project\n you are welcomed
 
